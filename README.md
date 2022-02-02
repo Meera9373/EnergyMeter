@@ -9,17 +9,18 @@ Class consist of Medium, NoLoad, Normal, Risk label
 We used 6 different Machine Learning Algorithms
 
 Acuracy For Different Algorithms
-LR:0.996875
 
-LDA:0.996875
+Logistic Regression : 0.996875
 
-KNN:0.993750
+Linear Discriminant Analysis : 0.996875
 
-CART:0.993750
+K Neighbors Classifier : 0.993750
 
-NB:0.990625
+Decision Tree Classifier : 0.993750
 
-SVM:0.990625
+Gaussian Naive Bayes : 0.990625
+
+Support Vector Machine:0.990625
 ![image](https://user-images.githubusercontent.com/60151306/152103881-21cbf87f-f7df-4d80-a696-ae4b2d6dee8a.png)
 
 
